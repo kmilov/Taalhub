@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="24512" systemVersion="25C56" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="VerbEntity" representedClassName="VerbEntity" syncable="YES">
+        <attribute name="english" optional="YES" attributeType="String"/>
+        <attribute name="infinitive" optional="YES" attributeType="String"/>
+        <attribute name="pastParticiple" optional="YES" attributeType="String"/>
+        <attribute name="pastTense" optional="YES" attributeType="String"/>
+        <attribute name="sentences" optional="YES" attributeType="Transformable" valueTransformerName=""/>
+        <attribute name="spanish" optional="YES" attributeType="String"/>
+    </entity>
+</model>
